@@ -1,7 +1,7 @@
 MRNB
 ====
 
-Naive Bayes on MapReduce
+Naive Bayes on MapReduce---------
 
 Format for running the code
 
